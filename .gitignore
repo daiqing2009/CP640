@@ -2,7 +2,7 @@
 lessons/*
 project/candidates/*
 project/samples/*
-
+submits/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
