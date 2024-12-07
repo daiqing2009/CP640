@@ -168,3 +168,6 @@ cython_debug/
 **/data/*
 project/reference/*
 project/presentation/~$*
+project/code/input/*
+project/code/output/*
+project/code/models/*
